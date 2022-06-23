@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Serena
 - 🌱 I’m currently studying at Imperial College London
-- :sun_with_face: Welcome to my Github
+- :tennis: I love playing tennis
+- :high_brightness: Welcome to my Github
